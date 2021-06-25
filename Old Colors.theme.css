@@ -1,0 +1,61 @@
+/**
+ * @name Old Discord Colors
+ * @author vk6#7391
+ * @version 1.0.0
+ * @description Restores Discord's colors back
+ * @authorId 530198926129627146
+ * @source https://github.com/ading2210/discord-old-colors
+*/
+
+:root{
+	--brand-experiment-100: hsl(228, calc(var(--saturation-factor, 1)*55.6%), 98.2%);
+	--brand-experiment-130: hsl(228, calc(var(--saturation-factor, 1)*62.5%), 96.9%);
+	--brand-experiment-160: hsl(228, calc(var(--saturation-factor, 1)*60%), 95.1%);
+	--brand-experiment-200: hsl(229, calc(var(--saturation-factor, 1)*60%), 93.1%);
+	--brand-experiment-230: hsl(227, calc(var(--saturation-factor, 1)*57.4%), 90.8%);
+	--brand-experiment-260: hsl(226, calc(var(--saturation-factor, 1)*58.6%), 88.6%);
+	--brand-experiment-300: hsl(227, calc(var(--saturation-factor, 1)*57.7%), 86.1%);
+	--brand-experiment-330: hsl(227, calc(var(--saturation-factor, 1)*59.1%), 81.8%);
+	--brand-experiment-360: hsl(227, calc(var(--saturation-factor, 1)*57.9%), 77.6%);
+	--brand-experiment-400: hsl(226, calc(var(--saturation-factor, 1)*58%), 72%);
+	--brand-experiment-430: hsl(227, calc(var(--saturation-factor, 1)*58.2%), 70%);
+	--brand-experiment-460: hsl(227, calc(var(--saturation-factor, 1)*58.5%), 67.8%);
+	--brand-experiment: hsl(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%);
+	--brand-experiment-500: hsl(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%);
+	--brand-experiment-530: hsl(227, calc(var(--saturation-factor, 1)*45.2%), 59.2%);
+	--brand-experiment-560: hsl(227, calc(var(--saturation-factor, 1)*35.3%), 52.7%);
+	--brand-experiment-600: hsl(227, calc(var(--saturation-factor, 1)*31%), 44.3%);
+	--brand-experiment-630: hsl(226, calc(var(--saturation-factor, 1)*31.3%), 38.2%);
+	--brand-experiment-660: hsl(226, calc(var(--saturation-factor, 1)*31%), 33.5%);
+	--brand-experiment-700: hsl(227, calc(var(--saturation-factor, 1)*30.8%), 26.1%);
+	--brand-experiment-730: hsl(228, calc(var(--saturation-factor, 1)*31.2%), 24.5%);
+	--brand-experiment-760: hsl(227, calc(var(--saturation-factor, 1)*31.6%), 22.4%);
+	--brand-experiment-800: hsl(226, calc(var(--saturation-factor, 1)*31.3%), 19.4%);
+	--brand-experiment-830: hsl(225, calc(var(--saturation-factor, 1)*31.6%), 14.9%);
+	--brand-experiment-860: hsl(225, calc(var(--saturation-factor, 1)*32%), 9.8%);
+	--brand-experiment-900: hsl(228, calc(var(--saturation-factor, 1)*29.4%), 3.3%);
+	--brand-experiment-05a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.05);
+	--brand-experiment-10a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.1);
+	--brand-experiment-15a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.15);
+	--brand-experiment-20a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.2);
+	--brand-experiment-25a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.25);
+	--brand-experiment-30a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.3);
+	--brand-experiment-35a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.35);
+	--brand-experiment-40a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.4);
+	--brand-experiment-45a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.45);
+	--brand-experiment-50a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.5);
+	--brand-experiment-55a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.55);
+	--brand-experiment-60a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.6);
+	--brand-experiment-65a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.65);
+	--brand-experiment-70a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.7);
+	--brand-experiment-75a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.75);
+	--brand-experiment-80a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.8);
+	--brand-experiment-85a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.85);
+	--brand-experiment-90a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.9);
+	--brand-experiment-95a: hsla(227, calc(var(--saturation-factor, 1)*58.4%), 65.1%, 0.95);
+	--font-display: Whitney
+}
+
+.name-1jAdW{
+	font-size: 16px
+}
